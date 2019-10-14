@@ -1,5 +1,5 @@
 {
-    "name": "hellow",
+    "name": "hello",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -12,6 +12,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "additionalFilePaths": []
+    "public": false
 }
